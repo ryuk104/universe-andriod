@@ -10,6 +10,26 @@
         <entry key="..\:/Users/explo/OneDrive/Desktop/My website/quaxapp-andriod/app/src/main/res/layout/activity_signuppage.xml" value="0.20572916666666666" />
         <entry key="..\:/Users/explo/OneDrive/Desktop/My website/quaxapp-andriod/app/src/main/res/layout/fragment_profile.xml" value="0.20572916666666666" />
         <entry key="..\:/Users/explo/OneDrive/Desktop/My website/quaxapp-andriod/app/src/main/res/menu/bottom_navbar.xml" value="0.20572916666666666" />
+        <entry key="app/src/main/res/drawable-v24/grey_border_bottom.xml" value="0.18177083333333333" />
+        <entry key="app/src/main/res/drawable-v24/ic_heart_red.xml" value="0.18177083333333333" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.15925925925925927" />
+        <entry key="app/src/main/res/drawable-v24/white_grey_border_bottom.xml" value="0.18177083333333333" />
+        <entry key="app/src/main/res/drawable-v24/white_grey_border_top.xml" value="0.18177083333333333" />
+        <entry key="app/src/main/res/drawable-v24/white_rounded_button.xml" value="0.15925925925925927" />
+        <entry key="app/src/main/res/layout/activity_add_story.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_comments.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_edit_profile.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_options.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_post.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_start.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_story.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/bottom_navigation.xml" value="0.17692307692307693" />
+        <entry key="app/src/main/res/menu/post_menu.xml" value="0.1" />
       </map>
     </option>
   </component>
